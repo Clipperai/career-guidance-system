@@ -23,6 +23,6 @@ A simple Numpy based career recommendation system that suggests the best career 
 
 git clone https://github.com/Clipperai/career-guidance-system
 
-cd ai-career-guidance-system/src
+cd career-guidance-system/src
 
 python career_guidance.py
