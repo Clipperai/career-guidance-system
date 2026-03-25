@@ -21,7 +21,7 @@ A simple Numpy based career recommendation system that suggests the best career 
 
 ## Run Project
 
-git clone https://github.com/yourusername/ai-career-guidance-system
+git clone https://github.com/Clipperai/career-guidance-system
 
 cd ai-career-guidance-system/src
 
