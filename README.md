@@ -1,4 +1,5 @@
-# Numpy Career Guidance System
+⭐ If you like this project, give it a star!
+# Career Guidance System
 
 A simple Numpy based career recommendation system that suggests the best career paths based on:
 
