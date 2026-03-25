@@ -106,3 +106,6 @@ with open("students_data.txt", "a") as f:
     f.write(
         f"\n{name},{current_class},{avg_core},{interest},{skills},{top_3}"
     )
+
+if __name__ == "__main__":
+    main()
